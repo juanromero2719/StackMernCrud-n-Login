@@ -1,0 +1,10 @@
+aplicacion-full-stack-mern@1.0.0 E:\aplicacion full stack mern
+├── bcryptjs@2.4.3
+├── cookie-parse@0.4.0
+├── cookie-parser@1.4.7
+├── express@4.21.1
+├── jsonwebtoken@9.0.2
+├── mongoose@8.8.3
+├── morgan@1.10.0
+└── nodemon@3.1.7
+
